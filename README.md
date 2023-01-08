@@ -1,5 +1,5 @@
 # Jsong
-<center> <img width="200" height="200" src="https://cdn-s3.allmusic.com/cms/2202/newallmusic_blog.png" alt="allMusicBanner"> </center>
+<center> <img width="500" height="200" src="https://cdn-s3.allmusic.com/cms/2202/newallmusic_blog.png" alt="allMusicBanner"> </center>
 **Converts data from AllMusic.com into usable json-format files**
 
 jsong streamlines the process of copying data into json files
