@@ -2,6 +2,7 @@
 <center> <img width="500" height="200" src="https://cdn-s3.allmusic.com/cms/2202/newallmusic_blog.png" alt="allMusicBanner"> </center>
 <b> Converts data from AllMusic.com into usable json-format files </b>
 
+
 jsong streamlines the process of copying data into json files
 
 - For discographies: Pick a link of your choice (e.g., https://www.allmusic.com/artist/taylor-swift-mn0000472102/discography, https://www.allmusic.com/artist/elton-john-mn0000796734/discography, etc.) and pass the url to the function "getDiscography(URL_HERE)"
