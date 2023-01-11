@@ -1,3 +1,5 @@
+<style>p{color: Blue;}</style>
+
 # Jsong
 <center> <img width="500" height="200" src="https://cdn-s3.allmusic.com/cms/2202/newallmusic_blog.png" alt="allMusicBanner"> </center>
 <b> Converts data from AllMusic.com into usable json-format files </b>
@@ -17,5 +19,5 @@ Samples:
   <img width="200" height="200" src="https://user-images.githubusercontent.com/119715495/211178248-2b4c0b50-5b01-452c-b1c1-d6ffbf459272.png">
 </div>
 
-<span style="color: green"> - *Data is collected in part with the use of a Selenium webdriver; web pages will be periodically opened and closed in order to webscrape information. Please do not close these pages -- they will be automatically closed when the function has been executed. Thank you :)* </span>
+<p> - *Data is collected in part with the use of a Selenium webdriver; web pages will be periodically opened and closed in order to webscrape information. Please do not close these pages -- they will be automatically closed when the function has been executed. Thank you :)* </p>
 
