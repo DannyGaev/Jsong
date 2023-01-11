@@ -1,5 +1,3 @@
-<style>p{color: Blue;}</style>
-
 # Jsong
 <center> <img width="500" height="200" src="https://cdn-s3.allmusic.com/cms/2202/newallmusic_blog.png" alt="allMusicBanner"> </center>
 <b> Converts data from AllMusic.com into usable json-format files </b>
